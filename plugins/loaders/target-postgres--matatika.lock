@@ -194,7 +194,7 @@
     {
       "name": "data_flattening_max_level",
       "kind": "integer",
-      "value": 10,
+      "value": 0,
       "label": "Data Flattening Max Level",
       "description": "The maximum level of nested data structures to flatten when writing data to the Postgres Warehouse.",
       "hidden": true,
