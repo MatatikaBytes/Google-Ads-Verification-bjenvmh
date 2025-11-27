@@ -9,7 +9,7 @@ plugins:
   extractors:
   - name: tap-googleads
     variant: matatika
-    pip_url: git+https://github.com/Matatika/tap-googleads.git@v0.10.0
+    pip_url: git+https://github.com/Matatika/tap-googleads.git@fix/dates-in-conditions-yyyy-mm-dd-format
   loaders:
   - name: target-postgres
     variant: matatika
