@@ -13,7 +13,7 @@ plugins:
   loaders:
   - name: target-postgres
     variant: matatika
-    pip_url: git+https://github.com/Matatika/pipelinewise-target-postgres@v0.2.0
+    pip_url: git+https://github.com/Matatika/pipelinewise-target-postgres
   transforms:
   - name: dbt-googleads
     variant: matatika
